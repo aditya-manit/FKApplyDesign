@@ -1,10 +1,7 @@
-package edu.indiana.cs.c212.board;
+package game;
 
 import java.util.Observer;
 import java.util.Set;
-
-import edu.indiana.cs.c212.gameMechanics.Move;
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
  
 /** Pictured below is a hexagonal implementation of board. A board is simply 
  * a contract that an object can adhere to. Any such object that adheres to it
