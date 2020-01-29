@@ -1,10 +1,5 @@
-package edu.indiana.cs.c212.players;
 
 import java.util.List;
-
-import edu.indiana.cs.c212.board.Board;
-import edu.indiana.cs.c212.gameMechanics.Move;
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
 
 /**
  * A player is a class that defines a contract that allows any implementing class to participate in the game. 
