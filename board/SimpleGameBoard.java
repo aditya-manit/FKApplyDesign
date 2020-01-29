@@ -1,16 +1,9 @@
-package edu.indiana.cs.c212.board;
+package game;
 
 import java.awt.Point;
 import java.util.HashSet;
 import java.util.Set;
 
-import edu.indiana.cs.c212.gameMechanics.Move;
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
-
-/**
- * @author: galexeev
- * @author: janson
- */
 
 public class SimpleGameBoard extends AbstractGameBoard {
 	private Tile[][] tiles;
