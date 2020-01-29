@@ -1,8 +1,6 @@
-package edu.indiana.cs.c212.board;
+package game;
 
 import java.awt.Point;
-
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
 
 public class Tile {
 	private PlayerColor 		color;
