@@ -1,15 +1,9 @@
-package edu.indiana.cs.c212.players;
+package game;
 
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Set;
-
-import edu.indiana.cs.c212.board.Board;
-import edu.indiana.cs.c212.board.Tile;
-import edu.indiana.cs.c212.gameMechanics.Move;
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
 
 public class PlayerAI extends AbstractPlayer {
 
