@@ -1,6 +1,4 @@
-package edu.indiana.cs.c212.exceptions;
-
-import edu.indiana.cs.c212.gameMechanics.Move;
+package game;
 
 @SuppressWarnings("serial")
 public class InvalidMoveException extends Exception {
