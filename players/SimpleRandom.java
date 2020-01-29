@@ -1,11 +1,7 @@
-package edu.indiana.cs.c212.players;
+package game;
 
 import java.util.List;
 import java.util.Random;
-
-import edu.indiana.cs.c212.board.Board;
-import edu.indiana.cs.c212.gameMechanics.Move;
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
 
 public class SimpleRandom extends AbstractPlayer {
 
@@ -26,8 +22,4 @@ public class SimpleRandom extends AbstractPlayer {
 	}
 
 }
-
-//Runnable
-//threads
-//cores
 
