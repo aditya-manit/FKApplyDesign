@@ -1,12 +1,7 @@
-package edu.indiana.cs.c212.players;
+package game;
 
 import java.util.List;
 import java.util.Scanner;
-import edu.indiana.cs.c212.board.Board;
-import edu.indiana.cs.c212.gameMechanics.Move;
-import edu.indiana.cs.c212.gameMechanics.OverwriteMove;
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
-import edu.indiana.cs.c212.view.textual.CommandLineView;
 
 public class CommandLinePlayer extends AbstractPlayer {
 	public CommandLinePlayer(PlayerColor player) {
