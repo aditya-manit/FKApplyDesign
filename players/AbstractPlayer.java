@@ -1,6 +1,4 @@
-package edu.indiana.cs.c212.players;
-
-import edu.indiana.cs.c212.gameMechanics.PlayerColor;
+package game;
 
 public abstract class AbstractPlayer implements Player {
 
