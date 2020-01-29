@@ -1,4 +1,4 @@
-package edu.indiana.cs.c212.board;
+package game;
 
 import java.util.Observable;
 
